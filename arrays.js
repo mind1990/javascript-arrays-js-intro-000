@@ -50,3 +50,9 @@ function destructivelyRemoveElementFromEndOfArray(array) {
   array.pop()
   return myArray
 }
+
+function removeElementFromEndOfArray(array) {
+  var myArray = array
+  array.pop()
+  
+}
