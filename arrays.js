@@ -13,11 +13,6 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return array
 }
 
-function destructivelyAddElementToBeginningOfArray(array, element) {
-  var array = ["foo"]
-  array = ["foo", ...array]
-  return array
-}
 
 function addElementToEndOfArray(array, element) {
   var array = [1]
