@@ -30,5 +30,5 @@ function destructivelyAddElementToEndOfArray(array, element) {
 function accessElementInArray(array, index) {
   var myArray = array
   myArray[index]
-  return myArray
+  return myArray.length
 }
