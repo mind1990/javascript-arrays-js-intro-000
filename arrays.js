@@ -44,3 +44,10 @@ function removeElementFromBeginningOfArray(array) {
   array.shift()
   return myArray
 }
+
+function destructivelyRemoveElementFromEndOfArray(array) {
+  var myArray = array
+  array.pop()
+  return myArray
+}
+
