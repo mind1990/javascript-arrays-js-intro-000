@@ -33,4 +33,8 @@ function accessElementInArray(array, index) {
   return myArray.length
 }
 
-function destructivelyRemoveElementFromBeginningOfArray(array)
+function destructivelyRemoveElementFromBeginningOfArray(array) {
+  
+}
+
+
